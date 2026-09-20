@@ -169,6 +169,3 @@ benefits every SCP user.
 
 ---
 
-## License
-
-MIT
